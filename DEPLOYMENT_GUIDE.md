@@ -240,7 +240,7 @@ The application comes with pre-loaded sample data:
    ```bash
    fly auth login
    fly launch
-   ```
+   ```  
 
 3. **Configuration (fly.toml):**
    ```toml
